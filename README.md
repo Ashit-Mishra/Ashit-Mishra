@@ -44,23 +44,6 @@
   </a>
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/Ashit-Mishra">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashit-Mishra&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=e3872d&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph"/>
-  </a>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-<a href="https://github.com/Ashit-Mishra/fitness-tracker-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashit-Mishra&repo=fitness-tracker-api&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3872d&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Ashit-Mishra/trakg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashit-Mishra&repo=trakg&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3872d&text_color=c9d1d9" />
-</a>
 
 ---
 
