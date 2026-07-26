@@ -30,12 +30,6 @@
 ---
 
 
-<!-- GitHub Streak -->
-<p align="center">
-  <a href="https://github.com/Ashit-Mishra">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashit-Mishra&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=e3872d&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=6e7681" alt="GitHub Streak"/>
-  </a>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashit-Mishra/Ashit-Mishra/output/github-contribution-grid-snake-dark.svg">
