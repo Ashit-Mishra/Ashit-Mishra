@@ -44,6 +44,13 @@
   </a>
 </p>
 
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/Ashit-Mishra">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashit-Mishra&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=e3872d&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph"/>
+  </a>
+</p>
+
 
 ---
 
