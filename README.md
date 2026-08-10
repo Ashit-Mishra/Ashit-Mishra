@@ -1,58 +1,182 @@
-:: {align="center"}
-# Hi, I'm Ashit Mishra 👋
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff003c,20:ff7a00,40:ffe600,60:00d9ff,80:2447ff,100:8a2be2&height=180&section=header&text=ASHIT%20MISHRA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>`{=html}
 
-### Java Backend Developer \| Spring Boot \| Microservices \| DSA
-
-**B.Tech IT Student • Backend-focused Developer • Open Source
-Enthusiast**
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashit-mishra-1082b7326/)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashit-Mishra)
+```{=html}
+<h3>
+```
+Java Backend Developer • Spring Boot • Microservices • DSA
+```{=html}
+</h3>
+```
+`<a href="https://www.linkedin.com/in/ashit-mishra-1082b7326/">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-ASHIT%20MISHRA-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}
+`</a>`{=html} `<a href="mailto:asitm275@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/GMAIL-asitm275%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
+`</a>`{=html} `<a href="https://github.com/Ashit-Mishra">`{=html}
+`<img src="https://img.shields.io/badge/GITHUB-Ashit--Mishra-000000?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
+`</a>`{=html}
 :::
 
 ------------------------------------------------------------------------
 
-## 👋 Hey there! I'm Ashit
+# \> Hey there! I'm Ashit Mishra 👋
 
-I'm a **B.Tech Information Technology student** focused on building
-backend applications with **Java and Spring Boot**.
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="75%">
+```
+### Backend Developer & DSA Enthusiast (Java)
 
-Currently, I'm working on strengthening my skills in **Spring Boot, REST
-APIs, microservices, databases, Docker, Kubernetes, Kafka and system
-design**, while consistently practicing **DSA in Java**.
+I am a **3rd year B.Tech IT student at Ajay Kumar Garg Engineering
+College, Ghaziabad**, focused on building backend applications using
+**Java and Spring Boot**.
 
-I enjoy turning ideas into working software, building backend projects,
-deploying applications, and learning how production systems are
-designed.
+I enjoy designing REST APIs, working with databases, building
+microservices and learning how scalable backend systems are designed.
+
+Currently, I'm focusing my energy on **Spring Boot, Microservices, DSA,
+Docker, Kubernetes, Kafka and System Design**.
+
+I'm also exploring **Solidity & blockchain development** and building
+games with **Unity 2D**.
+
+```{=html}
+</td>
+```
+```{=html}
+<td width="25%" align="center">
+```
+`<img src="https://raw.githubusercontent.com/Ashit-Mishra/Ashit-Mishra/main/assets/planet.png" width="180"/>`{=html}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
 
 ------------------------------------------------------------------------
 
-## 💻 What I Work With
+## 🛠️ My Technical Playground
 
-### Backend
-
-`Java` `Spring` `Spring Boot` `REST APIs` `Maven` `JPA` `Hibernate`
-`JDBC`
-
-### Databases
-
-`MySQL` `PostgreSQL` `MongoDB` `Redis`
-
-### DevOps / Infrastructure
-
-`Docker` `Kubernetes` `Kafka` `Git` `GitHub` `Render`
-
-### Frontend
-
-`HTML` `CSS` `JavaScript`
-
-### Other Interests
-
-`DSA` `Solidity` `Foundry` `Unity`
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Backend`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Java • Spring • Spring Boot • REST APIs • Maven • JPA • Hibernate • JDBC
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Databases`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+MySQL • PostgreSQL • MongoDB • Redis
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}DevOps`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Docker • Kubernetes • Kafka • Git • GitHub • Render
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Frontend`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+HTML • CSS • JavaScript
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Other`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+DSA • Solidity • Foundry • Unity
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
 
 ------------------------------------------------------------------------
 
-## 🚀 Pinned Projects
+# 📌 Pinned
 
 ```{=html}
 <table>
@@ -63,17 +187,13 @@ designed.
 ```{=html}
 <td width="50%">
 ```
-### Fitness Tracker
+### Fitness-Tracker
 
-Spring Boot REST API for tracking fitness activities.
+**Public**
 
-**Stack**
+Fitness tracking REST API built with Spring Boot.
 
-`Java` `Spring Boot` `PostgreSQL` `Docker`
-
-**Deployment**
-
-Render + Neon PostgreSQL
+**Java** • Spring Boot • PostgreSQL • Docker
 
 [View Repository →](https://github.com/Ashit-Mishra/Fitness-Tracker)
 
@@ -83,17 +203,14 @@ Render + Neon PostgreSQL
 ```{=html}
 <td width="50%">
 ```
-### Trakg Backend
+### Trakg-Backend
 
-Backend application for student attendance tracking.
+**Public**
 
-**Stack**
+Attendance tracking backend built with Spring Boot, MySQL, JPA and REST
+APIs.
 
-`Java` `Spring Boot` `JPA` `Hibernate` `MySQL`
-
-**Focus**
-
-REST APIs + backend architecture
+**Java** • Spring Boot • MySQL • JPA
 
 [View Repository →](https://github.com/Ashit-Mishra/Trakg-Backend)
 
@@ -109,18 +226,14 @@ REST APIs + backend architecture
 ```{=html}
 <td width="50%">
 ```
-### Fitness Microservices
+### Fitness-Microservices
 
-A Spring Boot microservices project exploring distributed backend
-architecture.
+**Public**
 
-**Stack**
+Microservices-based fitness application using Spring Boot, MongoDB,
+Kafka and AI service integration.
 
-`Spring Boot` `Microservices` `MongoDB` `Kafka`
-
-**Focus**
-
-Service communication + event-driven architecture
+**Java** • Spring Boot • MongoDB • Kafka
 
 ```{=html}
 </td>
@@ -128,14 +241,14 @@ Service communication + event-driven architecture
 ```{=html}
 <td width="50%">
 ```
-### JPMC Advanced Software Engineering
+### forage-midas
+
+**Public**
 
 Implementation work from the J.P. Morgan Chase Advanced Software
-Engineering virtual experience.
+Engineering program.
 
-**Focus**
-
-Java development + software engineering practices
+**Java** • Software Engineering
 
 [View Repository →](https://github.com/Ashit-Mishra/forage-midas)
 
@@ -151,73 +264,65 @@ Java development + software engineering practices
 
 ------------------------------------------------------------------------
 
-## 🧠 Currently Learning
+## 🎯 Current Focus
 
 ``` text
-Java
- └── DSA
-      ├── Arrays
-      ├── Strings
-      ├── Linked Lists
-      ├── Stack & Queue
-      ├── Trees
-      ├── Graphs
-      └── Dynamic Programming
-
 Spring Boot
- ├── REST APIs
- ├── JPA / Hibernate
- ├── Spring Security
- └── Microservices
+├── REST APIs
+├── Spring Security
+├── JPA / Hibernate
+└── Microservices
 
 Distributed Systems
- ├── Docker
- ├── Kubernetes
- ├── Kafka
- └── System Design
+├── Docker
+├── Kubernetes
+├── Kafka
+└── System Design
 
-Blockchain
- ├── Solidity
- └── Foundry
+DSA
+├── Arrays
+├── Linked Lists
+├── Stack & Queue
+├── Trees
+├── Graphs
+└── Dynamic Programming
 ```
 
 ------------------------------------------------------------------------
 
-## 📊 GitHub Activity
+## 📈 GitHub Stats
 
 ::: {align="center"}
-`<img src="https://github-readme-stats.vercel.app/api?username=Ashit-Mishra&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170"/>`{=html}
+`<img src="https://github-readme-stats.vercel.app/api?username=Ashit-Mishra&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165"/>`{=html}
 
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashit-Mishra&layout=compact&theme=github_dark&hide_border=true" height="170"/>`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashit-Mishra&layout=compact&theme=github_dark&hide_border=true" height="165"/>`{=html}
 :::
 
 `<br>`{=html}
 
 ::: {align="center"}
-`<img src="https://streak-stats.demolab.com?user=Ashit-Mishra&theme=github-dark-blue&hide_border=true" />`{=html}
+`<img src="https://streak-stats.demolab.com?user=Ashit-Mishra&theme=github-dark-blue&hide_border=true"/>`{=html}
 :::
 
 ------------------------------------------------------------------------
 
-## 🐍 Contribution Graph
+## 🐍 Contributions
 
 ::: {align="center"}
-`<img src="https://raw.githubusercontent.com/Ashit-Mishra/Ashit-Mishra/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>`{=html}
-:::
-
-------------------------------------------------------------------------
-
-## 📫 Find Me
-
-::: {align="center"}
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashit%20Mishra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashit-mishra-1082b7326/)
-[![GitHub](https://img.shields.io/badge/GitHub-Ashit--Mishra-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ashit-Mishra)
+`<img src="https://raw.githubusercontent.com/Ashit-Mishra/Ashit-Mishra/output/github-contribution-grid-snake-dark.svg" width="90%"/>`{=html}
 :::
 
 ------------------------------------------------------------------------
 
 ::: {align="center"}
-### Build • Learn • Ship • Repeat
+### Code. Build. Automate. Deploy.
 
-`<img src="https://komarev.com/ghpvc/?username=Ashit-Mishra&style=flat-square" />`{=html}
+`<a href="https://www.linkedin.com/in/ashit-mishra-1082b7326/">`{=html}LinkedIn`</a>`{=html}
+  •   `<a href="mailto:asitm275@gmail.com">`{=html}Gmail`</a>`{=html}  
+•  
+`<a href="https://github.com/Ashit-Mishra">`{=html}GitHub`</a>`{=html}
+
+`<br>`{=html}`<br>`{=html}
+
+`<img src="https://komarev.com/ghpvc/?username=Ashit-Mishra&style=flat-square"/>`{=html}
 :::
