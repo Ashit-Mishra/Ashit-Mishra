@@ -1,8 +1,10 @@
 <a href="https://github.com/Ashit-Mishra/Ashit-Mishra">
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashit-Mishra/Ashit-Mishra/main/github-readme-card.svg">
-    <img src="https://raw.githubusercontent.com/Ashit-Mishra/Ashit-Mishra/main/github-readme-card.svg" alt="Ashit Mishra README card">
-  </picture>
+ <center>
+  <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashit-Mishra/Ashit-Mishra/main/github-readme-card.svg">
+     <img src="https://raw.githubusercontent.com/Ashit-Mishra/Ashit-Mishra/main/github-readme-card.svg" alt="Ashit Mishra README card">
+   </picture>
+ </center>
 </a>
 
 <!-- Tech Stack Badges -->
